@@ -1,2 +1,7 @@
 ConvolutionNeuralNetwork/2nd_DeepCNN/ResidualNetwork/resnet50.h5
 ConvolutionNeuralNetwork/2nd_DeepCNN/ResidualNetwork/models/resnet50.data-00000-of-00001
+ConvolutionNeuralNetwork/3rd_ObjectDetection_Segmentation/ObjectDetection_YOLO/model_data/variables/variables.data-00000-of-00001
+ConvolutionNeuralNetwork/3rd_ObjectDetection_Segmentation/ObjectDetection_YOLO/nb_images/*.mp4
+ConvolutionNeuralNetwork/3rd_ObjectDetection_Segmentation/Segmentation_UNet/data/CameraRGB/*.png
+ConvolutionNeuralNetwork/3rd_ObjectDetection_Segmentation/Segmentation_UNet/data/CameraMask/*.png
+*.mp4
