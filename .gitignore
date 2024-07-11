@@ -8,4 +8,6 @@ ConvolutionNeuralNetwork/4th_FaceRecognition_NeuralStyleTransfer/FacialRecogniti
 ConvolutionNeuralNetwork/4th_FaceRecognition_NeuralStyleTransfer/FacialRecognition_Verification/keras-facenet-h5/model.h5
 ConvolutionNeuralNetwork/4th_FaceRecognition_NeuralStyleTransfer/NeuralStyeTransfer/pretrained-model/imagenet-vgg-verydeep-19.mat
 ConvolutionNeuralNetwork/4th_FaceRecognition_NeuralStyleTransfer/NeuralStyeTransfer/pretrained-model/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
+SequenceModel/LSTM_GenerationMusic/data/*.mp3
+SequenceModel/LSTM_GenerationMusic/data/*.wav
 *.mp4
