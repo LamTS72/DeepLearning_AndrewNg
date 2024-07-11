@@ -10,4 +10,6 @@ ConvolutionNeuralNetwork/4th_FaceRecognition_NeuralStyleTransfer/NeuralStyeTrans
 ConvolutionNeuralNetwork/4th_FaceRecognition_NeuralStyleTransfer/NeuralStyeTransfer/pretrained-model/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
 SequenceModel/LSTM_GenerationMusic/data/*.mp3
 SequenceModel/LSTM_GenerationMusic/data/*.wav
+SequenceModel/WordEmbeddings/WordVector_Similary_Analogies/data/glove.6B.50d.txt
+SequenceModel/WordEmbeddings/SentimentClassifier_LSTM/data/glove.6B.50d.txt
 *.mp4
