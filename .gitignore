@@ -12,4 +12,6 @@ SequenceModel/LSTM_GenerationMusic/data/*.mp3
 SequenceModel/LSTM_GenerationMusic/data/*.wav
 SequenceModel/WordEmbeddings/WordVector_Similary_Analogies/data/glove.6B.50d.txt
 SequenceModel/WordEmbeddings/SentimentClassifier_LSTM/data/glove.6B.50d.txt
+SequenceModel/SequenceToSequence/TriggerWordDetection_SpeechRecognition/XY_dev/*.npy
+SequenceModel/SequenceToSequence/TriggerWordDetection_SpeechRecognition/XY_train/*.npy
 *.mp4
