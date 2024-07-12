@@ -14,4 +14,8 @@ SequenceModel/WordEmbeddings/WordVector_Similary_Analogies/data/glove.6B.50d.txt
 SequenceModel/WordEmbeddings/SentimentClassifier_LSTM/data/glove.6B.50d.txt
 SequenceModel/SequenceToSequence/TriggerWordDetection_SpeechRecognition/XY_dev/*.npy
 SequenceModel/SequenceToSequence/TriggerWordDetection_SpeechRecognition/XY_train/*.npy
+SequenceModel/TransformerNetwork/Transformer_NameEntityRecognition/model/*.h5
+SequenceModel/TransformerNetwork/Transformer_Preprocessing/glove/*.txt
+SequenceModel/TransformerNetwork/Transformer_QuestonAnswering/model/pytorch/*.bin
+SequenceModel/TransformerNetwork/Transformer_QuestonAnswering/model/tensorflow/*.h5
 *.mp4
